@@ -8,4 +8,4 @@ Start rabbit-mq, start worker by
 
 Then start script
 
-- python npanime.py <target link> <target folder>
+- python npanime.py [target link] [target folder]
