@@ -27,8 +27,6 @@ def get_good_html(file_like_object):
         flag and done.append(line)
     return ''.join(done)
 
-
-
 def get_pics_list(soup):
     #[ (referrer, url), ...]
     # We can implement handle for each image server
